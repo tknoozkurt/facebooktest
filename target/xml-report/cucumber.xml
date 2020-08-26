@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.626">
+<testcase classname="Facebook login yapma" name="TC01_kullanici facebook login yapar" time="0.189">
+<system-out><![CDATA[Given kullanici facebook sayfasindadir......................................skipped
+And kullanici marketplace gider.............................................skipped
+And kullanici your account tiklar...........................................skipped
+Then ilk ilanin  basligi dogrulanir.........................................skipped
+]]></system-out>
+</testcase>
+</testsuite>

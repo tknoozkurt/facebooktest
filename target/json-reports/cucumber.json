@@ -1,0 +1,75 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2020-08-26T03:27:48.603Z",
+        "line": 3,
+        "name": "TC01_kullanici facebook login yapar",
+        "description": "",
+        "id": "facebook-login-yapma;tc01-kullanici-facebook-login-yapar",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "kullanici facebook sayfasindadir",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "kullanici marketplace gider",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "kullanici your account tiklar",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "ilk ilanin  basligi dogrulanir",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@facebook"
+          }
+        ]
+      }
+    ],
+    "name": "Facebook login yapma",
+    "description": "",
+    "id": "facebook-login-yapma",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/features.feature",
+    "tags": [
+      {
+        "name": "@facebook",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
